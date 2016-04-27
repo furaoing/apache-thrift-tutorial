@@ -4,7 +4,7 @@
  * DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING
  *  @generated
  */
-package com.javaclient.lib;
+package com.thriftrpc.tutorial;
 
 
 import java.util.Map;
