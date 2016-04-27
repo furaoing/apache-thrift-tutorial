@@ -1,5 +1,7 @@
 namespace java com.thriftrpc.tutorial
+#@namespace scala com.thriftrpc.tutorial
 namespace py tutorial
+
 /**
  * This is the tutorial.thrift copied from official thrift repo.
  * Some features is not supported, refer to README.
