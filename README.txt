@@ -12,3 +12,5 @@ scala: Scrooge (twitter)
 
 3. Java: It is recommended that the thrift generated code to be deployed as a jar lib.
          However, introduce thrift generated code as source code is also available.
+         
+4. Multiplex support is available but not well documented, the status of language support for multiplexing is unclear.
